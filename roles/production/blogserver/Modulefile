@@ -1,3 +1,4 @@
 name 'thallgren-blogserver'
 version '0.0.0'
 
+dependency 'cloudsmith/wordpress', '>=0.1.0'
